@@ -26,7 +26,7 @@
 ---
 
 ## ⏱️ Aktywność w kodzie (WakaTime)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=501d65a2-b99a-4d45-8fc3-ea7cc4cf4010&theme=tokyonight)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Koala&theme=tokyonight)
 
 ---
 
